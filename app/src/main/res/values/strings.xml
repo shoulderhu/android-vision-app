@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Computer Vision</string>
+    <string name="log_debug">DEBUG</string>
+</resources>
